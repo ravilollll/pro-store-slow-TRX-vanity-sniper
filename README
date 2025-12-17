@@ -1,0 +1,5 @@
+put all your listener tokens to list.txt like
+token1
+token2
+token3
+write your token inside index.js file and save the mfa token as mfa.txt in same file
